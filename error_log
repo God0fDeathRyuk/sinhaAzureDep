@@ -1,0 +1,239 @@
+[17-Oct-2023 05:48:58 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/dompdf/dompdf/src/Css/Style.php on line 1524
+[17-Oct-2023 07:33:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 417
+[17-Oct-2023 12:37:10 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Database/MySQLi/Result.php on line 136
+[17-Oct-2023 12:37:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Database/MySQLi/Result.php on line 136
+[18-Oct-2023 05:46:26 UTC] PHP Fatal error:  Declaration of PhpOffice\PhpSpreadsheet\Collection\Memory\SimpleCache1::get($key, $default = NULL) must be compatible with Psr\SimpleCache\CacheInterface::get(string $key, ?Psr\SimpleCache\mixed $default = NULL): Psr\SimpleCache\mixed in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Memory/SimpleCache1.php on line 63
+[18-Oct-2023 05:51:23 UTC] PHP Fatal error:  Declaration of PhpOffice\PhpSpreadsheet\Collection\Memory\SimpleCache1::get($key, $default = NULL) must be compatible with Psr\SimpleCache\CacheInterface::get(string $key, ?Psr\SimpleCache\mixed $default = NULL): Psr\SimpleCache\mixed in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Memory/SimpleCache1.php on line 63
+[18-Oct-2023 07:16:35 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Database/MySQLi/Result.php on line 136
+[18-Oct-2023 07:29:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Database/MySQLi/Result.php on line 136
+[18-Oct-2023 08:58:59 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130039808 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/bill_printing_final.php on line 518
+[18-Oct-2023 08:59:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130039808 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/bill_printing_final.php on line 590
+[18-Oct-2023 09:13:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127942656 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/bill_printing_final.php on line 582
+[18-Oct-2023 10:05:34 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127942656 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/bill_printing_final.php on line 582
+[18-Oct-2023 12:46:43 UTC] PHP Warning:  Uncaught ErrorException: require_once(/home/kvzcpbilzlmj/public_html/public/assets/css/pdf.css): failed to open stream: No such file or directory in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/layouts/master.php:36
+Stack trace:
+#0 /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/layouts/master.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'require_once(/h...', '/home/kvzcpbilz...', 36, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/layouts/master.php(36): require_once()
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/View/View.php(213): include('/home/kvzcpbilz...')
+#3 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/View/View.php(229): CodeIgniter\View\View->render('layouts/master', Array, true)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Comm in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/layouts/master.php on line 36
+[18-Oct-2023 12:46:43 UTC] PHP Fatal error:  CodeIgniter\View\View::main(): Failed opening required '/home/kvzcpbilzlmj/public_html/public/assets/css/pdf.css' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/layouts/master.php on line 36
+[18-Oct-2023 12:56:33 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127942656 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/bill_printing_draft.php on line 426
+[18-Oct-2023 12:58:49 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 127942656 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/bill_printing_draft.php on line 426
+[18-Oct-2023 13:03:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130039808 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/bill_printing_draft.php on line 426
+[19-Oct-2023 06:04:59 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 130039808 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/bill_printing_draft.php on line 426
+[20-Oct-2023 05:43:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Database/MySQLi/Result.php on line 136
+[20-Oct-2023 05:43:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Database/MySQLi/Result.php on line 136
+[20-Oct-2023 09:24:46 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 417
+[20-Oct-2023 09:25:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Database/MySQLi/Result.php on line 136
+[20-Oct-2023 09:33:49 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Database/MySQLi/Result.php on line 136
+[20-Oct-2023 09:34:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Database/MySQLi/Result.php on line 136
+[20-Oct-2023 09:35:42 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Database/MySQLi/Result.php on line 136
+[20-Oct-2023 09:48:09 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Database/MySQLi/Result.php on line 136
+[20-Oct-2023 09:49:45 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Database/MySQLi/Result.php on line 136
+[20-Oct-2023 09:54:54 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 417
+[20-Oct-2023 11:07:46 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 33853352 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Toolbar.php on line 422
+[27-Oct-2023 08:51:31 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/dompdf/dompdf/src/Dompdf.php on line 505
+[31-Oct-2023 11:17:46 UTC] PHP Fatal error:  Cannot use [] for reading in /home/kvzcpbilzlmj/public_html/sinhaco/app/Controllers/BillingController.php on line 14487
+[31-Oct-2023 12:50:32 UTC] PHP Fatal error:  Cannot use [] for reading in /home/kvzcpbilzlmj/public_html/sinhaco/app/Controllers/BillingController.php on line 14474
+[01-Nov-2023 07:33:11 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/excel_bill_list.php on line 464
+[01-Nov-2023 07:33:11 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/excel_bill_list.php on line 466
+[01-Nov-2023 07:33:11 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/excel_bill_list.php on line 468
+[01-Nov-2023 07:33:11 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/excel_bill_list.php on line 474
+[01-Nov-2023 07:34:32 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/excel_bill_list.php on line 466
+[01-Nov-2023 07:34:32 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/excel_bill_list.php on line 468
+[01-Nov-2023 07:34:32 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/excel_bill_list.php on line 474
+[01-Nov-2023 07:35:08 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/excel_bill_list.php on line 466
+[01-Nov-2023 07:35:08 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/excel_bill_list.php on line 468
+[01-Nov-2023 07:35:08 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/excel_bill_list.php on line 474
+[02-Nov-2023 11:33:37 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 11:34:16 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 11:35:16 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 11:36:51 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 11:37:47 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 11:39:07 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 11:39:44 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 11:40:36 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 11:43:29 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 11:44:58 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 12:51:13 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3_z\xDF\xDDu')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3_z\xDF\xDDu')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3_z\xDF\xDDu')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 12:53:05 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3_z\xDF\xDDu')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3_z\xDF\xDDu')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3_z\xDF\xDDu')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 13:02:08 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3_z\xDF\xDDu')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3_z\xDF\xDDu')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3_z\xDF\xDDu')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 13:03:23 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 13:05:01 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 13:06:09 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 13:06:25 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 13:06:38 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[02-Nov-2023 13:06:55 UTC] PHP Fatal error:  Uncaught ErrorException: realpath() expects parameter 1 to be a valid path, string given in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php:93
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'realpath() expe...', '/home/kvzcpbilz...', 93, Array)
+#1 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php(93): realpath(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#2 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(524): clean_path(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#3 [internal function]: CodeIgniter\Debug\Exceptions::CodeIgniter\Debug\{closure}(',\x00\x80/M4\xE3]\xB7\xE7ou')
+#4 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(529): array_map(Object(Closure), Array)
+#5 /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Debug/Exceptions.php(123): CodeIgniter\Debug\Exceptions::renderBacktrace(Array)
+#6 [inter in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 93
+[03-Nov-2023 06:08:53 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 137787544 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/View/View.php on line 391
+[03-Nov-2023 06:35:59 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Config/Factories.php on line 102
+[03-Nov-2023 06:41:08 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 137787544 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/View/View.php on line 391
+[03-Nov-2023 06:41:56 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 137787544 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/View/View.php on line 391
+[03-Nov-2023 06:45:04 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 137787544 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/View/View.php on line 391
+[03-Nov-2023 06:46:48 UTC] PHP Fatal error:  Allowed memory size of 201326592 bytes exhausted (tried to allocate 20480 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Config/Factories.php on line 102
+[03-Nov-2023 06:48:06 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 20480 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Common.php on line 417
+[03-Nov-2023 06:49:42 UTC] PHP Fatal error:  Allowed memory size of 385875968 bytes exhausted (tried to allocate 102760448 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/app/Views/pages/Billing/bill_printing_final.php on line 107
+[03-Nov-2023 06:50:36 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 4096 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Database/MySQLi/Result.php on line 136
+[03-Nov-2023 06:51:12 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4194312 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/Events/Events.php on line 152
+[03-Nov-2023 06:52:48 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 137787544 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/View/View.php on line 391
+[03-Nov-2023 06:54:13 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 137787544 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/View/View.php on line 391
+[03-Nov-2023 12:10:57 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 150483600 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/View/View.php on line 391
+[03-Nov-2023 12:11:49 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 150483600 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/View/View.php on line 391
+[06-Nov-2023 05:26:04 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 137787536 bytes) in /home/kvzcpbilzlmj/public_html/sinhaco/vendor/codeigniter4/framework/system/View/View.php on line 391
+[29-Jan-2024 11:46:42 UTC] PHP Fatal error:  Access level to App\Controllers\OtherExpensesController::common_print_expenses() must be public (as in class App\Controllers\BaseController) in /home/kvzcpbilzlmj/public_html/sinhaco/app/Controllers/OtherExpensesController.php on line 22
+[29-Jan-2024 11:46:53 UTC] PHP Fatal error:  Access level to App\Controllers\OtherExpensesController::common_print_expenses() must be public (as in class App\Controllers\BaseController) in /home/kvzcpbilzlmj/public_html/sinhaco/app/Controllers/OtherExpensesController.php on line 22
+[29-Jan-2024 11:47:03 UTC] PHP Fatal error:  Access level to App\Controllers\OtherExpensesController::common_print_expenses() must be public (as in class App\Controllers\BaseController) in /home/kvzcpbilzlmj/public_html/sinhaco/app/Controllers/OtherExpensesController.php on line 22
+[09-Feb-2024 05:02:45 UTC] PHP Fatal error:  Cannot declare class App\Controllers\QueryController, because the name is already in use in /home/kvzcpbilzlmj/public_html/sinhaco/app/Controllers/QueryController.php on line 1480
